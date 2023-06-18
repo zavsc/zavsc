@@ -1,6 +1,5 @@
-- 👋 Привет, я Кирилл aka. @zavsc
-- 👀 Мой сайт --> zavsc.pw
-- 📫 I live in Lipetsk
+- 👋 Привет, я Кирилл
+- 📫 Живу в Липецке
 
 <!---
 zavsc/zavsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
